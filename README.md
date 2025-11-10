@@ -26,7 +26,7 @@ Built with **React**, **FastAPI**, and **PostgreSQL** for a robust and scalable 
 | **ORM** | [SQLAlchemy](https://www.sqlalchemy.org/) | Database ORM used with FastAPI |
 | **Auth** | [JWT](https://jwt.io/) | Secure authentication tokens |
 | **Styling** | [Tailwind CSS](https://tailwindcss.com/) | Utility-first CSS framework for styling |
-| **Containerization** | [Docker](https://www.docker.com/) *(optional)* | Simplifies deployment and environment setup |
+| **Containerization** | [Docker](https://www.docker.com/) | Simplifies deployment and environment setup |
 
 ---
 
@@ -83,13 +83,13 @@ patient-records-app/
 
 ## 🧾 License
 
-This project is licensed under the **APACHE License** — see the [LICENSE](LICENSE) file for details.
+This project is licensed under the **Apache License 2.0** — see the [LICENSE](LICENSE) file for details.
 
 ---
 
 ## 📧 Contact
 
-**Developer:** Ibrahim Zayan Nasih  
-**Email:** zayan.nasih@hotmail.com  
-**GitHub:** https://github.com/zayan810(https://github.com/zayan810)
+**Developer:** [Ibrahim Zayan Nasih]
+**Email:** [zayan.nasih@hotmail.com]  
+**GitHub:** [https://github.com/zayan810](https://github.com/zayan810)
 
